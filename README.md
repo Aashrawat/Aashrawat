@@ -4,7 +4,7 @@
 
 <h1 align="center">Hello there, I'm Aashrawat 👋</h1>
 
-<h3 align="center">Full Stack Web Developer | Computer Programming Graduate | Open to Work</h3>
+<h3 align="center">Full Stack Web Developer | Computer Programming Graduate </h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
