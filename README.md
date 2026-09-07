@@ -87,17 +87,9 @@
 
 ---
 
-### 💼 Experience
 
-**Software Engineer Intern — [OpenPolicy](https://openpolicy.me/)**  
-Jan 2026 – Aug 2026 · Remote  
-Shipped 10+ product features on the AI policy-intelligence platform. Built Next.js features used to track 100+ legislative items, generate AI bill summaries, and send policy alerts.
 
-**IT Support Assistant — Seneca College**  
-May 2025 – Dec 2025 · Toronto, ON  
-Helped 50+ students a day across labs and the help desk. Resolved hardware, software, login, Wi-Fi, and printing issues on Windows and Linux.
 
----
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d285065265e.gif" width="500" alt="Coding animation" />
