@@ -82,8 +82,8 @@
 | --- | --- | --- |
 | **Nuvio** — Full-stack e-commerce SaaS with Stripe checkout, JWT auth, and an OpenAI shopping chatbot | Next.js, MongoDB, Stripe, OpenAI | [Live](https://nuvio-saas.vercel.app/) |
 | **DIY Hotpot** — Food ordering app with auth, menu management, and Mailgun | Node.js, Express, EJS, MongoDB | [Live](https://web322-2261-prj-aashrawat.vercel.app/) |
-| **Face Recognition System** — Custom LBPH recognizer with live webcam detection | Python, OpenCV, NumPy | [Code](https://github.com/Aashrawat/portfolio/tree/main/MachineLearning/face_rec) |
-| **College Capstone** — Advanced C++ OOP architecture with inheritance and polymorphism | C++, OOP | [Repo](https://github.com/Aashrawat/portfolio) |
+| **Face Recognition System** — Custom LBPH recognizer with live webcam detection | Python, OpenCV, NumPy | [Code](https://github.com/Aashrawat/machine-learning/tree/main/face_rec) |
+| **College Capstone** — Advanced C++ OOP architecture with inheritance and polymorphism | C++, OOP | [Repo](https://github.com/Aashrawat/SenecaClass-projects) |
 
 ---
 
