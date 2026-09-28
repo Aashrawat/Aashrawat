@@ -84,6 +84,7 @@
 | **DIY Hotpot** — Food ordering app with auth, menu management, and Mailgun | Node.js, Express, EJS, MongoDB | [Live](https://web322-2261-prj-aashrawat.vercel.app/) |
 | **Face Recognition System** — Custom LBPH recognizer with live webcam detection | Python, OpenCV, NumPy | [Code](https://github.com/Aashrawat/machine-learning/tree/main/face_rec) |
 | **College Capstone** — Advanced C++ OOP architecture with inheritance and polymorphism | C++, OOP | [Repo](https://github.com/Aashrawat/SenecaClass-projects) |
+| **HeartDisease Prediction** - A website that predicts heartdisease using ML algorithms |          | [Live](https://heart-disease-predict-bice.vercel.app/) |
 
 ---
 
