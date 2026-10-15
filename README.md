@@ -4,7 +4,6 @@
 
 <h1 align="center">Hello there, I'm Aashrawat 👋</h1>
 
-<h3 align="center">Software Engineer Intern at OpenPolicy | Based in Toronto, Ontario</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
