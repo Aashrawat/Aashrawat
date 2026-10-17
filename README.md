@@ -51,12 +51,12 @@
 
 **Languages**: C++, JavaScript, TypeScript, Python, SQL, <br>
 **Frontend**: React, Next.js, Tailwind CSS <br>
-Backend: Node.js, Express.js, REST APIs, JWT <br>
-Databases: PostgreSQL, MySQL, MongoDB <br>
-Cloud & DevOps: AWS, Docker, GitHub Actions, CI/CD <br>
-Machine Learning: scikit-learn, pandas, NumPy, matplotlib, OpenCV, TensorFlow, PyTorch <br>
-AI: RAG, embeddings, LangGraph, LangChain, OpenAI SDK <br>
-Tools & Methodologies: Git, Github, ClaudeCode, Cursor, Codex, Agile, Scrum, Jira, Software Testing & QA <br>
+**Backend**: Node.js, Express.js, REST APIs, JWT <br>
+**Databases**: PostgreSQL, MySQL, MongoDB <br>
+**Cloud & DevOps**: AWS, Docker, GitHub Actions, CI/CD <br>
+**Machine Learning**: scikit-learn, pandas, NumPy, matplotlib, OpenCV, TensorFlow, PyTorch <br>
+**AI**: RAG, embeddings, LangGraph, LangChain, OpenAI SDK <br>
+**Tools & Methodologies**: Git, Github, ClaudeCode, Cursor, Codex, Agile, Scrum, Jira, Software Testing & QA <br>
 
 ---
 
