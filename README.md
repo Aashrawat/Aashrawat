@@ -49,14 +49,14 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,html,css,react,nextjs,nodejs,express,mongodb,tailwind,git,github,docker,azure,linux,vscode,pytorch,tensorflow,npm" alt="Tech stack" />
 </p>
 
-**Languages**: C++, JavaScript, TypeScript, Python, SQL, C\n
-**Frontend**: React, Next.js, Tailwind CSS
-Backend: Node.js, Express.js, REST APIs, JWT
-Databases: PostgreSQL, MySQL, MongoDB
-Cloud & DevOps: AWS, Docker, GitHub Actions, CI/CD
-Machine Learning: scikit-learn, pandas, NumPy, matplotlib, OpenCV, TensorFlow, PyTorch
-AI: RAG, embeddings, LangGraph, LangChain, OpenAI SDK
-Tools & Methodologies: Git, Github, ClaudeCode, Cursor, Codex, Agile, Scrum, Jira, Software Testing & QA
+**Languages**: C++, JavaScript, TypeScript, Python, SQL, <br>
+**Frontend**: React, Next.js, Tailwind CSS <br>
+Backend: Node.js, Express.js, REST APIs, JWT <br>
+Databases: PostgreSQL, MySQL, MongoDB <br>
+Cloud & DevOps: AWS, Docker, GitHub Actions, CI/CD <br>
+Machine Learning: scikit-learn, pandas, NumPy, matplotlib, OpenCV, TensorFlow, PyTorch <br>
+AI: RAG, embeddings, LangGraph, LangChain, OpenAI SDK <br>
+Tools & Methodologies: Git, Github, ClaudeCode, Cursor, Codex, Agile, Scrum, Jira, Software Testing & QA <br>
 
 ---
 
