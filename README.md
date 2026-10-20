@@ -49,7 +49,7 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,html,css,react,nextjs,nodejs,express,mongodb,tailwind,git,github,docker,azure,linux,vscode,pytorch,tensorflow,npm" alt="Tech stack" />
 </p>
 
-**Languages**: C++, JavaScript, TypeScript, Python, SQL, <br>
+**Languages**: C, C++, JavaScript, TypeScript, Python, SQL, <br>
 **Frontend**: React, Next.js, Tailwind CSS <br>
 **Backend**: Node.js, Express.js, REST APIs, JWT <br>
 **Databases**: PostgreSQL, MySQL, MongoDB <br>
