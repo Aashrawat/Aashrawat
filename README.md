@@ -55,7 +55,7 @@
 **Databases**: PostgreSQL, MySQL, MongoDB, ChromaDB, Pinecone <br>
 **Cloud & DevOps**: AWS, Docker, GitHub Actions, CI/CD <br>
 **Machine Learning**: scikit-learn, pandas, NumPy, matplotlib, OpenCV, TensorFlow, PyTorch <br>
-**AI**: RAG, embeddings, LangGraph, LangChain, OpenAI SDK <br>
+**AI**: RAG, embeddings, LangGraph, LangChain, OpenAI, Anthropic <br>
 **Tools & Methodologies**: Git, Github, ClaudeCode, Cursor, Codex, Agile, Scrum, Jira, Software Testing & QA <br>
 
 ---
