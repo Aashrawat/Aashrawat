@@ -60,11 +60,20 @@
 
 ---
 
+### ✨ Founder
+
+**[Finesse](https://aashrawat123-finesse.hf.space)** — AI video and audio assistant with a knowledge-base chatbot, transcription, and subscription billing
+
+**Stack**: Python, TypeScript, FastAPI, Uvicorn, Pydantic, React, Vite, Tailwind CSS, React Router, TanStack Query, Firebase, MongoDB, ChromaDB, OpenAI, LangChain, Whisper, PyTorch, Hugging Face, sentence-transformers, Tavily, Beautiful Soup, FFmpeg, Stripe, Resend, Docker
+
+[Live](https://aashrawat123-finesse.hf.space) • [Repo](https://github.com/Aashrawat/Finesse)
+
+---
+
 ### 📌 Featured Projects
 
 | Project | Stack | Links |
 | --- | --- | --- |
-| **Finesse** — AI video and audio assistant with a knowledge-base chatbot, transcription, and subscription billing | Python, TypeScript, FastAPI, Uvicorn, Pydantic, React, Vite, Tailwind CSS, React Router, TanStack Query, Firebase, MongoDB, ChromaDB, OpenAI, LangChain, Whisper, PyTorch, Hugging Face, sentence-transformers, Tavily, Beautiful Soup, FFmpeg, Stripe, Resend, Docker | [Live](https://aashrawat123-finesse.hf.space) • [Repo](https://github.com/Aashrawat/Finesse) |
 | **Nuvio** — Full-stack e-commerce SaaS with Stripe checkout, JWT auth, and an OpenAI shopping chatbot | Next.js, MongoDB, Stripe, OpenAI | [Live](https://nuvio-saas.vercel.app/) |
 | **Multi-Agent Research** — AI research assistant where a search agent, reader agent, writer, and critic collaborate to produce a sourced, scored report, with user accounts and saved history | Python, LangChain, OpenAI, FastAPI, React, MongoDB, Beautiful Soup | [Live](https://multi-agent-research-peach.vercel.app/) • [Repo](https://github.com/Aashrawat/Multi-Agent-Research) |
 
