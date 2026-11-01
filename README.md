@@ -46,17 +46,17 @@
 ### 🛠️ What stack do I know?
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,html,css,react,nextjs,nodejs,express,mongodb,tailwind,git,github,docker,azure,linux,vscode,pytorch,tensorflow,npm" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,html,css,react,nextjs,vite,nodejs,express,fastapi,mongodb,tailwind,firebase,git,github,docker,huggingface,stripe,azure,linux,vscode,pytorch,tensorflow,npm" alt="Tech stack" />
 </p>
 
-**Languages**: C, C++, JavaScript, TypeScript, Python, SQL, <br>
-**Frontend**: React, Next.js, Tailwind CSS <br>
-**Backend**: Node.js, Express.js, REST APIs, JWT <br>
+**Languages**: C, C++, JavaScript, TypeScript, Python, SQL, HTML, CSS <br>
+**Frontend**: React, Next.js, Vite, Tailwind CSS, React Router, TanStack Query <br>
+**Backend**: Node.js, Express.js, FastAPI, Uvicorn, Pydantic, Firebase, REST APIs, JWT <br>
 **Databases**: PostgreSQL, MySQL, MongoDB, ChromaDB, Pinecone <br>
-**Cloud & DevOps**: AWS, Docker, GitHub Actions, CI/CD <br>
-**Machine Learning**: scikit-learn, pandas, NumPy, matplotlib, OpenCV, TensorFlow, PyTorch <br>
-**AI**: RAG, embeddings, LangGraph, LangChain, OpenAI, Anthropic <br>
-**Tools & Methodologies**: Git, Github, ClaudeCode, Cursor, Codex, Agile, Scrum, Jira, Software Testing & QA <br>
+**Cloud & DevOps**: AWS, Docker, Hugging Face Spaces, Render, GitHub Actions, CI/CD <br>
+**Machine Learning**: scikit-learn, pandas, NumPy, matplotlib, OpenCV, TensorFlow, PyTorch, Whisper, sentence-transformers, Hugging Face Transformers <br>
+**AI**: RAG, embeddings, LangGraph, LangChain, OpenAI, Anthropic, Tavily, Beautiful Soup <br>
+**Tools & Methodologies**: Git, Github, Stripe, Resend, FFmpeg, ClaudeCode, Cursor, Codex, Agile, Scrum, Jira, Software Testing & QA <br>
 
 ---
 
@@ -64,7 +64,7 @@
 
 | Project | Stack | Links |
 | --- | --- | --- |
-| **Finesse** — AI video and audio assistant with a knowledge-base chatbot, transcription, and subscription billing | Python, FastAPI, React, MongoDB, OpenAI, Stripe | [Live](https://aashrawat123-finesse.hf.space) • [Repo](https://github.com/Aashrawat/Finesse) |
+| **Finesse** — AI video and audio assistant with a knowledge-base chatbot, transcription, and subscription billing | Python, TypeScript, FastAPI, Uvicorn, Pydantic, React, Vite, Tailwind CSS, React Router, TanStack Query, Firebase, MongoDB, ChromaDB, OpenAI, LangChain, Whisper, PyTorch, Hugging Face, sentence-transformers, Tavily, Beautiful Soup, FFmpeg, Stripe, Resend, Docker | [Live](https://aashrawat123-finesse.hf.space) • [Repo](https://github.com/Aashrawat/Finesse) |
 | **Nuvio** — Full-stack e-commerce SaaS with Stripe checkout, JWT auth, and an OpenAI shopping chatbot | Next.js, MongoDB, Stripe, OpenAI | [Live](https://nuvio-saas.vercel.app/) |
 | **Multi-Agent Research** — AI research assistant where a search agent, reader agent, writer, and critic collaborate to produce a sourced, scored report, with user accounts and saved history | Python, LangChain, OpenAI, FastAPI, React, MongoDB, Beautiful Soup | [Live](https://multi-agent-research-peach.vercel.app/) • [Repo](https://github.com/Aashrawat/Multi-Agent-Research) |
 
