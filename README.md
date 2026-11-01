@@ -62,7 +62,7 @@
 
 ### ✨ Founder
 
-**[Finesse](https://aashrawat123-finesse.hf.space)** — A fully functional RAG powered AI.
+**[Finesse](https://aashrawat123-finesse.hf.space)** — Generative AI
 
 **Stack**: Python, TypeScript, FastAPI, Uvicorn, Pydantic, React, Vite, Tailwind CSS, React Router, TanStack Query, Firebase, MongoDB, ChromaDB, OpenAI, LangChain, Whisper, PyTorch, Hugging Face, sentence-transformers, Tavily, Beautiful Soup, FFmpeg, Stripe, Resend, Docker
 
