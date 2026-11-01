@@ -66,7 +66,6 @@
 
 **Stack**: Python, TypeScript, FastAPI, Uvicorn, Pydantic, React, Vite, Tailwind CSS, React Router, TanStack Query, Firebase, MongoDB, ChromaDB, OpenAI, LangChain, Whisper, PyTorch, Hugging Face, sentence-transformers, Tavily, Beautiful Soup, FFmpeg, Stripe, Resend, Docker
 
-[Live](https://aashrawat123-finesse.hf.space) 
 
 ---
 
