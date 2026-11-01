@@ -64,6 +64,7 @@
 
 | Project | Stack | Links |
 | --- | --- | --- |
+| **Finesse** — AI video and audio assistant with a knowledge-base chatbot, transcription, and subscription billing | Python, FastAPI, React, MongoDB, OpenAI, Stripe | [Live](https://aashrawat123-finesse.hf.space) • [Repo](https://github.com/Aashrawat/Finesse) |
 | **Nuvio** — Full-stack e-commerce SaaS with Stripe checkout, JWT auth, and an OpenAI shopping chatbot | Next.js, MongoDB, Stripe, OpenAI | [Live](https://nuvio-saas.vercel.app/) |
 | **Multi-Agent Research** — AI research assistant where a search agent, reader agent, writer, and critic collaborate to produce a sourced, scored report, with user accounts and saved history | Python, LangChain, OpenAI, FastAPI, React, MongoDB, Beautiful Soup | [Live](https://multi-agent-research-peach.vercel.app/) • [Repo](https://github.com/Aashrawat/Multi-Agent-Research) |
 
