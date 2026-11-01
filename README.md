@@ -54,7 +54,7 @@
 **Backend**: Node.js, Express.js, FastAPI, Uvicorn, Pydantic, Firebase, REST APIs, JWT <br>
 **Databases**: PostgreSQL, MySQL, MongoDB, ChromaDB, Pinecone <br>
 **Cloud & DevOps**: AWS, Docker, Hugging Face Spaces, Render, GitHub Actions, CI/CD <br>
-**Machine Learning**: scikit-learn, pandas, NumPy, matplotlib, OpenCV, TensorFlow, PyTorch, Whisper, sentence-transformers, Hugging Face Transformers <br>
+**Machine Learning**: scikit-learn, pandas, NumPy, matplotlib, OpenCV, TensorFlow, PyTorch, Hugging Face Transformers <br>
 **AI**: RAG, embeddings, LangGraph, LangChain, OpenAI, Anthropic, Tavily, Beautiful Soup <br>
 **Tools & Methodologies**: Git, Github, Stripe, Resend, FFmpeg, ClaudeCode, Cursor, Codex, Agile, Scrum, Jira, Software Testing & QA <br>
 
@@ -62,11 +62,11 @@
 
 ### ✨ Founder
 
-**[Finesse](https://aashrawat123-finesse.hf.space)** — AI video and audio assistant with a knowledge-base chatbot, transcription, and subscription billing
+**[Finesse](https://aashrawat123-finesse.hf.space)** — A fully functional RAG powered AI.
 
 **Stack**: Python, TypeScript, FastAPI, Uvicorn, Pydantic, React, Vite, Tailwind CSS, React Router, TanStack Query, Firebase, MongoDB, ChromaDB, OpenAI, LangChain, Whisper, PyTorch, Hugging Face, sentence-transformers, Tavily, Beautiful Soup, FFmpeg, Stripe, Resend, Docker
 
-[Live](https://aashrawat123-finesse.hf.space) • [Repo](https://github.com/Aashrawat/Finesse)
+[Live](https://aashrawat123-finesse.hf.space) 
 
 ---
 
