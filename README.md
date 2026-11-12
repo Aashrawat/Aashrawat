@@ -49,8 +49,8 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,html,css,react,nextjs,vite,nodejs,express,fastapi,mongodb,tailwind,firebase,git,github,docker,huggingface,stripe,azure,linux,vscode,pytorch,tensorflow,npm" alt="Tech stack" />
 </p>
 
-**Languages**: C, C++, JavaScript, TypeScript, Python, SQL, HTML, CSS <br>
-**Frontend**: React, Next.js, Vite, Tailwind CSS, React Router, TanStack Query <br>
+**Languages**: C, C++, JavaScript, TypeScript, Python, SQL <br>
+**Frontend**: React, Next.js, Vite, Tailwind CSS<br>
 **Backend**: Node.js, Express.js, FastAPI, Uvicorn, Pydantic, Firebase, REST APIs, JWT <br>
 **Databases**: PostgreSQL, MySQL, MongoDB, ChromaDB, Pinecone <br>
 **Cloud & DevOps**: AWS, Docker, Hugging Face Spaces, Render, GitHub Actions, CI/CD <br>
