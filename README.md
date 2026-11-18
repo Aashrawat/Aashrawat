@@ -52,11 +52,11 @@
 **Languages**: C, C++, JavaScript, TypeScript, Python, SQL <br>
 **Frontend**: React, Next.js, Vite, Tailwind CSS<br>
 **Backend**: Node.js, Express.js, FastAPI, Uvicorn, Pydantic, Firebase, REST APIs, JWT <br>
-**Databases**: PostgreSQL, MySQL, MongoDB, ChromaDB, Pinecone <br>
+**Databases**: PostgreSQL, MySQL, MongoDB, ChromaDB <br>
 **Cloud & DevOps**: AWS, Docker, Hugging Face Spaces, Render, GitHub Actions, CI/CD <br>
 **Machine Learning**: scikit-learn, pandas, NumPy, matplotlib, OpenCV, TensorFlow, PyTorch, Hugging Face Transformers <br>
-**AI**: RAG, embeddings, LangGraph, LangChain, OpenAI, Anthropic, Tavily, Beautiful Soup <br>
-**Tools & Methodologies**: Git, Github, Stripe, Resend, FFmpeg, ClaudeCode, Cursor, Codex, Agile, Scrum, Jira, Software Testing & QA <br>
+**AI**: RAG, embeddings, LangChain, OpenAI, Anthropic, Tavily, Beautiful Soup <br>
+**Tools & Methodologies**: Git, Github, Stripe, ClaudeCode, Cursor, Codex, Agile, Jira, Software Testing & QA <br>
 
 ---
 
